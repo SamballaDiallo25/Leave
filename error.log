@@ -1,0 +1,55 @@
+[05-Aug-2025 16:14:42 Europe/Berlin] PHP Warning:  Undefined variable $servername in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:14:42 Europe/Berlin] PHP Warning:  Undefined variable $username in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:14:42 Europe/Berlin] PHP Warning:  Undefined variable $password in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:14:42 Europe/Berlin] PHP Warning:  Undefined variable $database in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:14:42 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\notifications\get_notification_count.php:14
+Stack trace:
+#0 C:\xampp\htdocs\notifications\get_notification_count.php(14): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:33 Europe/Berlin] PHP Warning:  Undefined variable $servername in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:33 Europe/Berlin] PHP Warning:  Undefined variable $username in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:33 Europe/Berlin] PHP Warning:  Undefined variable $password in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:33 Europe/Berlin] PHP Warning:  Undefined variable $database in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\notifications\get_notification_count.php:14
+Stack trace:
+#0 C:\xampp\htdocs\notifications\get_notification_count.php(14): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:39 Europe/Berlin] PHP Warning:  Undefined variable $servername in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:39 Europe/Berlin] PHP Warning:  Undefined variable $username in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:39 Europe/Berlin] PHP Warning:  Undefined variable $password in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:39 Europe/Berlin] PHP Warning:  Undefined variable $database in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\notifications\get_notification_count.php:14
+Stack trace:
+#0 C:\xampp\htdocs\notifications\get_notification_count.php(14): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:48 Europe/Berlin] PHP Warning:  Undefined variable $servername in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:48 Europe/Berlin] PHP Warning:  Undefined variable $username in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:48 Europe/Berlin] PHP Warning:  Undefined variable $password in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:48 Europe/Berlin] PHP Warning:  Undefined variable $database in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:48 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\notifications\get_notification_count.php:14
+Stack trace:
+#0 C:\xampp\htdocs\notifications\get_notification_count.php(14): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:57 Europe/Berlin] PHP Warning:  Undefined variable $servername in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:57 Europe/Berlin] PHP Warning:  Undefined variable $username in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:57 Europe/Berlin] PHP Warning:  Undefined variable $password in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:57 Europe/Berlin] PHP Warning:  Undefined variable $database in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:15:57 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in C:\xampp\htdocs\notifications\get_notification_count.php:14
+Stack trace:
+#0 C:\xampp\htdocs\notifications\get_notification_count.php(14): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in C:\xampp\htdocs\notifications\get_notification_count.php on line 14
+[05-Aug-2025 16:16:26 Europe/Berlin] PHP Warning:  Undefined variable $countData in C:\xampp\htdocs\notifications\get_notification_count.php on line 20
+[05-Aug-2025 16:16:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\notifications\get_notification_count.php on line 20
+[05-Aug-2025 16:16:26 Europe/Berlin] PHP Warning:  Undefined variable $countData in C:\xampp\htdocs\notifications\get_notification_count.php on line 21
+[05-Aug-2025 16:16:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\notifications\get_notification_count.php on line 21
+[05-Aug-2025 16:16:26 Europe/Berlin] PHP Warning:  Undefined variable $user_id in C:\xampp\htdocs\notifications\get_notification_count.php on line 22
+[05-Aug-2025 16:16:26 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\notifications\get_notification_count.php on line 25
+[05-Aug-2025 16:16:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in C:\xampp\htdocs\notifications\get_notification_count.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\notifications\get_notification_count.php on line 25

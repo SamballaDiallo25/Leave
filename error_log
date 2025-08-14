@@ -1,0 +1,37 @@
+[31-Jul-2024 11:15:22 Europe/Istanbul] PHP Warning:  Undefined array key "RequestTest" in /home/finaldigital/public_html/leave1/Form_1/submit.php on line 16
+[31-Jul-2024 11:15:24 Europe/Istanbul] PHP Warning:  Undefined variable $row in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[31-Jul-2024 11:15:24 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[31-Jul-2024 11:15:57 Europe/Istanbul] PHP Warning:  Undefined variable $row in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[31-Jul-2024 11:15:57 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[31-Jul-2024 11:16:13 Europe/Istanbul] PHP Warning:  Undefined variable $row in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[31-Jul-2024 11:16:13 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[31-Jul-2024 11:18:58 Europe/Istanbul] PHP Warning:  Undefined variable $row in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[31-Jul-2024 11:18:58 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[31-Jul-2024 11:18:58 Europe/Istanbul] PHP Warning:  Undefined array key "admin_name" in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 218
+[31-Jul-2024 11:19:20 Europe/Istanbul] PHP Warning:  Undefined variable $row in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[31-Jul-2024 11:19:20 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[31-Jul-2024 11:19:20 Europe/Istanbul] PHP Warning:  Undefined array key "admin_name" in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 218
+[31-Jul-2024 11:19:40 Europe/Istanbul] PHP Warning:  Undefined variable $row in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[31-Jul-2024 11:19:40 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[31-Jul-2024 11:19:48 Europe/Istanbul] PHP Warning:  Undefined variable $row in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[31-Jul-2024 11:19:48 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[31-Jul-2024 11:20:02 Europe/Istanbul] PHP Warning:  Undefined variable $row in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[31-Jul-2024 11:20:02 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[18-Oct-2024 11:04:36 Europe/Istanbul] PHP Warning:  Undefined variable $row in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[18-Oct-2024 11:04:36 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[18-Oct-2024 11:04:36 Europe/Istanbul] PHP Warning:  Undefined array key "admin_name" in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 218
+[18-Oct-2024 11:04:44 Europe/Istanbul] PHP Warning:  Undefined variable $row in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[18-Oct-2024 11:04:44 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[18-Oct-2024 11:04:44 Europe/Istanbul] PHP Warning:  Undefined array key "admin_name" in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 218
+[18-Oct-2024 11:04:51 Europe/Istanbul] PHP Warning:  Undefined variable $row in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[18-Oct-2024 11:04:51 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[18-Oct-2024 11:04:51 Europe/Istanbul] PHP Warning:  Undefined array key "admin_name" in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 218
+[18-Oct-2024 11:05:00 Europe/Istanbul] PHP Warning:  Undefined variable $row in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[18-Oct-2024 11:05:00 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[18-Oct-2024 11:05:00 Europe/Istanbul] PHP Warning:  Undefined array key "admin_name" in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 218
+[18-Oct-2024 11:05:08 Europe/Istanbul] PHP Warning:  Undefined variable $row in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[18-Oct-2024 11:05:08 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[18-Oct-2024 11:05:08 Europe/Istanbul] PHP Warning:  Undefined array key "admin_name" in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 218
+[18-Oct-2024 11:05:54 Europe/Istanbul] PHP Warning:  Undefined array key "RequestTest" in /home/finaldigital/public_html/leave1/Form_1/submit.php on line 16
+[18-Oct-2024 11:05:58 Europe/Istanbul] PHP Warning:  Undefined variable $row in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116
+[18-Oct-2024 11:05:58 Europe/Istanbul] PHP Warning:  Trying to access array offset on value of type null in /home/finaldigital/public_html/leave1/Form_1/formReview.php on line 116

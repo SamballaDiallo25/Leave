@@ -1,0 +1,150 @@
+<?php
+
+$lang = [
+    ' Ana sayfa' => 'Home',
+    'Başvuru' => 'Application',
+    'Çıkış Yap' => 'Logout',
+    'Hoş geldin' => 'Welcome',
+    'FAKÜLTELER' => 'faculties',
+    'Diş Hekimliği Fakültesi' => 'Faculty of Dentistry',
+    'Eczacılık Fakültesi' => 'Faculty of Pharmacy',
+    'Eğitim Bilimleri Fakültesi' => 'Faculty of Educational Sciences',
+    'Fen Edebiyat Fakültesi' => 'Faculty of Arts and Sciences',
+    'Hukuk Fakültesi' => 'Faculty of Law',
+    'İktisadi ve İdari Bilimler Fakültesi' => 'Faculty of Economics and Administrative Sciences',
+    'Mimarlık ve Güzel Sanatlar Fakültesi' => 'Faculty of Architecture and Fine Arts',
+    'Mühendislik Fakültesi' => 'Faculty of Engineering',
+    'Sağlık Bilimleri Fakültesi' => 'Faculty of Health Sciences',
+    'YÜKSEKOKULLAR' => 'SCHOOLS',
+    'Turizm ve Mutfak Sanatları Yüksekokulu' => 'School of Tourism and Culinary Arts',
+    'Beden Eğitimi ve Spor Yüksekokulu' => 'School of Physical Education and Sports',
+    'Yabancı Diller Yüksekokulu' => 'School of Foreign Languages',
+    'HIZLI ERİŞİM' => 'QUICK LINKS',
+    'ÖBS' => 'SIS',
+    'Akademik Takvim' => 'Academic Calendar',
+    'Online Kayıt' => 'Apply Online',
+    'bizi takip edin' => 'Follow Us',
+
+    // Status and Application Management
+    'Durum Tablosu' => 'Status Table',
+    'Kullanıcı adı' => 'User Name',
+    'Bölüm' => 'Department',
+    'İnsan kaynakları' => 'Human Resources',
+    'Rektörlük' => 'Rectorate',
+    'Dönem' => 'Semester',
+    'Dönemler' => 'Semesters',
+    'Başlangıç tarihi' => 'Start Date',
+    'Bitiş tarihi' => 'End Date',
+    'İzin türü' => 'Permission type',
+    'İzin günü' => 'Days off',
+    'Yorum' => 'Comment',
+    'Aksiyon' => 'Action',
+
+    // University and Form Information
+    'ULUSLARARASI FİNAL ÜNİVERSİTESİ' => 'Final International University',
+    'Akademik Personel İzin Formu' => 'Academic Personnel Form',
+    'Kimlik Bilgileri' => 'Identity Information',
+    'Adınız ve Soyadınız' => 'Full Name',
+    'Pasaport numarası' => 'Passport Number',
+    'Fakülte/Bölüm' => 'Faculty/Department',
+
+    // Permission Types
+    'İzinler' => 'Permissions',
+    'Yıllık izin' => 'Annual-Leave',
+    'mazeret izni' => 'Excuse-leave',
+    'ücretsiz izin' => 'Unpaid-leave',
+    'hastalık izni' => 'Sick-leave',
+    'diğer' => 'Other',
+    'belirtmek' => 'Specify',
+    'İzin başlangıç ​​tarihi' => 'Permit start date',
+    'İzin bitiş tarihi' => 'Leave end date',
+    'Temsil edilecek kişi' => 'Person to represent',
+    'Adres verme izni' => 'Permission to address',
+    'Telefon numarası' => 'Phone Number',
+    'İzinli olduğum süre boyunca derslerim var' => 'I have classes during my leave of absence',
+    'Evet' => 'Yes',
+    'Hayır' => 'No',
+    'Bu günlerde telafi edeceğim:' => "I'll make it up in these days:",
+    'Toplam gün' => 'Total days',
+    'Onay' => 'Approval',
+    'Durum' => 'Status',
+
+    // Admin and User Management
+    'Yönetici Kontrol Paneli' => "Admin Dashboard",
+    'Kullanıcı Kontrol Paneli' => "User Dashboard",
+    'Kontrol Paneli' => "Dashboard",
+    'Bölüm Başkanı Kontrol Paneli' => "HOF Dashboard",
+    'İnsan Kaynakları Kontrol Paneli' => "Human Resource Dashboard",
+    'Rektörlük Kontrol Paneli' => "Rectorate Dashboard",
+    'Uygula' => 'Apply',
+    'Uygulamalar' => "Applications",
+    'Kullanıcılar' => "Users",
+    'Yönetici Listesi' => "Admin List",
+    'Kullanıcı listesi' => "User List",
+    'Kullanıcı Ekle' => "Add User",
+    'Fakülte Ekle' => "Add Faculty",
+    'Yeni Dönem Ekle' => "Add New Semester",
+    'Dönem Ekle' => "Add Semester",
+    'Mevcut Dönemler' => "Existing Semesters",
+    'Yönetici Bilgilerini Düzenle' => "Edit Admin Information",
+    'Kullanıcı Bilgilerini Düzenle' => "Edit User Information",
+
+    // Status Types
+    'Onaylandı' => "Approved",
+    'Beklemede' => "Pending",
+    'Reddedildi' => "Rejected",
+
+    // Form Fields
+    'Fakülte Kimliği' => "Faculty ID",
+    'Fakülte Adı' => "Faculty Name",
+    'Fakülte Başkanı' => "Faculty Head",
+    'Kullanıcı Kimliği' => "User ID",
+    'Rol' => "Role",
+    'Şifre' => "Password",
+    'Seç' => "Select",
+    'Pozisyon' => "Position",
+    'Yönetici' => "Admin",
+    'Kullanıcı' => "User",
+    'Başvuru Numarası' => "AppNo",
+    'Ad' => "Name",
+    'Telefon' => "Phone",
+    'Pasaport No' => "Passport No",
+    'Adres' => "Address",
+
+    // Request Management
+    'İnceleme için Talepler' => "Requests for Review",
+    'Talep Türü' => "Request Type",
+    'İzin Türü' => "Leave Type",
+    'İzin Süresi' => "Leave Period",
+    'Başvuru #' => "Submission #",
+    'Başvuru Numarası' => "Submission Number",
+    'Başvuru Tarihi' => "Submission Date",
+    'Telafi Günleri' => "Make Up Days",
+    'Daha Fazla Detay' => "More Details",
+    'dan' => "to",
+    'Yok' => "N/A",
+
+    // Actions
+    'Onayla' => "Approve",
+    'Reddet' => "Reject",
+    'Durumu Güncelle' => "Update Status",
+    'Geri' => "Back",
+    'Kaydet' => "Save",
+    'Gönder' => "Submit",
+
+    // Confirmation Messages
+    'Bu talebi onaylamak istediğinizden emin misiniz?' => "Are you sure you want to approve this request?",
+    'Bu talebi reddetmek istediğinizden emin misiniz?' => "Are you sure you want to reject this request?",
+
+    // Error/Info Messages
+    'İnceleme için talep bulunamadı.' => "No requests found for review.",
+    'Güncelleme kilitli - Üst düzey harekete geçti' => "Update locked - Higher level has acted",
+    'Güncelleme kilitli - Rektörlük harekete geçti' => "Update locked - Rectorate has acted",
+    'Oturumunuz 1 dakika içinde sona erecek. Oturumu devam ettirmek için Tamam\'a tıklayın.' => "Your session will expire in 1 minute. Click OK to continue session.",
+
+    // Additional entries shortened for brevity
+    // Continue with same format...
+    'Bahar(2026/2027)' => 'Spring(2026/2027)',
+];
+
+?>
